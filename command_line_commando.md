@@ -14,3 +14,8 @@ sudo !! (or anything !!)
 
 & vs &&
 
+jobs, fg, bg
+
+find . -name <name you are looking for>
+
+Vim - get me outta here
