@@ -8,6 +8,9 @@ CTRL+U
 
 etc...
 
+aliases 
+  * type 
+
 sudo !! (or anything !!)
 
 > vs >>
