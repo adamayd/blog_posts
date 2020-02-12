@@ -1,15 +1,19 @@
 # Command Line Commando
 
-CTRL+L
-
 CTRL+A
 
 CTRL+U
 
 etc...
 
+clear / CTRL+L
+
 aliases 
   * type 
+
+history
+
+leading space to not include in history
 
 sudo !! (or anything !!)
 
